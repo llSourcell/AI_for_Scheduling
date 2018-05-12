@@ -1,5 +1,9 @@
 # Sam the Slack Scheduler Bot
 
+### Overview
+
+This is the code for [this](https://www.youtube.com/watch?v=nvLJq4GnCg4&feature=youtu.be) video on Youtube by Siraj Raval on AI for scheduling. 
+
 ### Purpose
 
 Productivity is hard to come by in fast-paced work environments. Dozens of browsers tabs, desktop apps, and mobile notifications drown your ability to focus and concentrate. As companies like Google, Facebook, Amazon and IBM continue to build powerful AI-based platforms and tools, the barrier to applying machine learning to real user problems is becoming dramatically reduced. 
@@ -86,3 +90,7 @@ SLACK_API_TOKEN: *Bot User OAuth Access Token*
 * [Google Calendar API](https://developers.google.com/google-apps/calendar/) - Used by bot to schedule meetings and reminders  
 * [Express](https://expressjs.com/) - Backend Server  
 
+
+## Credits
+
+Credits for this code go to [floresfxf](https://www.youtube.com/watch?v=nvLJq4GnCg4&feature=youtu.be). I've merely created a wrapper to get people started. 
